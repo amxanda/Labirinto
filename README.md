@@ -50,5 +50,4 @@ Abra o Dev-C++, ou qualquer outro programa compativél, baixe os arquivos do [Gi
 </h3>
 
 Feito com ❤️</br> 
-por <a href="https://github.com/dayanenubia/dayanenubia.git" > Dayane Núbia </a>  e <a href="https://github.com/amxanda" > Amanda Mayara </a> </br> 
-Entre em contato! 👋
+por <a href="https://github.com/dayanenubia/dayanenubia.git" > Dayane Núbia </a>  e <a href="https://github.com/amxanda" > Amanda Mayara </a> </br> 👋
